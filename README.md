@@ -5,7 +5,7 @@ A clone of the Keep aplication from Google to write simple notes built with Reac
 ## Instructions
 
 ```
-$ git clone https://github.com/gabrielgsa/google-keep-clone
+$ git clone https://github.com/gabrielgsa/google-keep
 $ cd google-keep-clone
 $ npm install
 $ npm start
