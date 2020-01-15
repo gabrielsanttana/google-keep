@@ -1,6 +1,6 @@
 # Google Keep Clone
 
-A clone of the Keep aplication from Google to write simple notes
+A clone of the Keep aplication from Google to write simple notes built with React and Hooks
 
 ## Instructions
 
