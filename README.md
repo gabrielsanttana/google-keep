@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/09/96/92/099692d1d651d51b7caf3040fce0f748.png" />  
+  <img src="https://i.pinimg.com/originals/09/96/92/099692d1d651d51b7caf3040fce0f748.png" width="130" height="130"/>  
 </div>
+
+###
 
 # Google Keep Clone
 
