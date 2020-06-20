@@ -2,13 +2,9 @@
   <img src="https://i.pinimg.com/originals/09/96/92/099692d1d651d51b7caf3040fce0f748.png" width="130" height="130"/>  
 </div>
 
-###
-
 # <div align="center">Google Keep Clone</div>
 
-## 📎 About:
-
-A clone of the Google Keep application for writing simple post-it notes 💡 
+<p align="center">A clone of the Google Keep application for writing simple post-it notes 💡</p> 
 
 ## 🛠️ Technologies:
 
