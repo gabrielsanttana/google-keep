@@ -19,7 +19,7 @@
   <li><a href="https://www.npmjs.com/">NPM</a></li>
 </ul>
 
-## 🚀 Instructions:
+## 🚀 Installation:
 
 ```
 $ git clone https://github.com/gabrielsanttana/google-keep
