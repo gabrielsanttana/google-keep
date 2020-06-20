@@ -32,4 +32,4 @@ The application will pop-up in the browser on [localhost:3000](/localhost:3000)
 
 ## ⚖️ License:
 
-MIT License
+[MIT License](https://github.com/gabrielsanttana/google-keep/blob/master/LICENSE)
