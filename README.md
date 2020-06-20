@@ -28,7 +28,7 @@ $ npm install
 $ npm start
 ```
 
-The application will pop-up in the browser on [localhost:3000](/localhost:3000)
+The application will pop-up in the browser on [http://localhost:3000](http://localhost:3000)
 
 ## ⚖️ License:
 
