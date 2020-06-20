@@ -8,7 +8,7 @@
 
 ## 📎 About:
 
-💡 A clone of the Google Keep for writing simple post-it notes</li>
+💡 A clone of the Google Keep application for writing simple post-it notes</li>
 
 ## 🛠️ Technologies:
 
@@ -23,7 +23,7 @@
   <li><a href="https://www.npmjs.com/">NPM</a></li>
 </ul>
 
-## 🚀 Running:
+## 🚀 Instructions:
 
 ```
 $ git clone https://github.com/gabrielsanttana/google-keep
@@ -32,7 +32,7 @@ $ npm install
 $ npm start
 ```
 
-The application will be pop-up in the localhost browser on port 3000
+The application will be pop-up in browser on <a href="localhost:3000">localhost:3000</a>
 
 ## ⚖️ License:
 
