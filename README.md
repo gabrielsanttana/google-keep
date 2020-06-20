@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">Google Keep Clone</div>
+# <div align="center">Google Keep Clone</div>
 
 ## 📎 About:
 
