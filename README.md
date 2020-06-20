@@ -8,7 +8,7 @@
 
 ## 📎 About:
 
-💡 A clone of the Google Keep application for writing simple post-it notes</li>
+A clone of the Google Keep application for writing simple post-it notes 💡 
 
 ## 🛠️ Technologies:
 
