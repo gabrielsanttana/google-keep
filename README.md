@@ -6,20 +6,20 @@
 
 <p align="center">A clone of the Google Keep application for writing simple post-it notes 💡</p> 
 
-## 🛠️ Technologies:
+## 🛠️ Technologies
 
 <ul>
   <li><a href="https://reactjs.org/">React</a></li>
 </ul>
 
-## ⚙️ Requirements:
+## ⚙️ Requirements
 
 <ul>
  <li><a href="https://nodejs.org/en">Node.js</a></li>
   <li><a href="https://www.npmjs.com/">NPM</a></li>
 </ul>
 
-## 🚀 Installation:
+## 🚀 Installation
 
 ```
 $ git clone https://github.com/gabrielsanttana/google-keep
@@ -30,6 +30,6 @@ $ npm start
 
 The application will pop-up in the browser on [http://localhost:3000](http://localhost:3000)
 
-## ⚖️ License:
+## ⚖️ License
 
 [MIT License](https://github.com/gabrielsanttana/google-keep/blob/master/LICENSE)
