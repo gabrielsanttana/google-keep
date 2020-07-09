@@ -8,7 +8,7 @@
 
 <img src="./assets/web_homepage.png" />
 
-<h4 align="center">A clone of the Google Keep application for writing simple post-it notes 💡</h4> 
+<p align="center">A clone of the Google Keep application for writing simple post-it notes 💡</p> 
 
 ## 🛠️ Technologies
 
