@@ -19,7 +19,8 @@
 ## ⚙️ Requirements
 
 <ul>
- <li><a href="https://nodejs.org/en">Node.js</a></li>
+  <li><a href="https://git-scm.com/">Git</a></li>
+  <li><a href="https://nodejs.org/en">Node.js</a></li>
   <li><a href="https://www.npmjs.com/">NPM</a></li>
 </ul>
 
