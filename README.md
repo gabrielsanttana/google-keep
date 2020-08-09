@@ -38,3 +38,5 @@ The application will pop-up in the browser on [http://localhost:3000](http://loc
 ## ⚖️ License
 
 [MIT License](https://github.com/gabrielsanttana/google-keep/blob/master/LICENSE)
+
+<h6 align="center">Made with ❤️ by <a href="https://linkedin.com/in/gabrielsanttana">Gabriel Santana</a></h6>
